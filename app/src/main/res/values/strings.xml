@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sampleMvvm</string>
+    <string name="chat_message_title">留言區</string>
+    <string name="chat_message_header_line">%d則留言</string>
+    <string name="chat_message_date">%1$dF‧%2$s前</string>
+    <string name="chat_message_input_hint">留言上限100字</string>
+    <string name="chat_message_content">分享你看法/n和大家一起討論吧！</string>
+    <string name="chat_message_replay">回覆</string>
+    <string name="chat_message_ban">很抱歉，你已被禁言！</string>
+</resources>

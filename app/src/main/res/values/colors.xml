@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chat_message_title_background">#111416</color>
+    <color name="chat_message_header_line_color">#b3b5b7</color>
+    <color name="chat_message_header_line_background">#1A2125</color>
+    <color name="chat_message_author_color">#9C9C9C</color>
+    <color name="chat_message_content_color">#ffffff</color>
+    <color name="chat_message_time_color">#848484</color>
+    <color name="chat_message_replay_color">#0C80BF</color>
+</resources>
