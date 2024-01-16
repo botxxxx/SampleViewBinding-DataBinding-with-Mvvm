@@ -9,7 +9,7 @@ import androidx.viewbinding.ViewBinding
  * @author Jack.su
  */
 abstract class BaseBindingAdapter<T : Any, B : ViewBinding> : RecyclerView.Adapter<BaseViewHolder>(), BaseBindingAdapterHandler<T> {
-    var data: List<T>? = null
+    protected var data: List<T>? = null
 
     override fun getItemCount(): Int = data?.size ?: 0
     abstract fun getViewBinding(): (LayoutInflater, ViewGroup) -> B
